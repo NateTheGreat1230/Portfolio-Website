@@ -767,6 +767,10 @@ select {
   height: 1.25rem;
 }
 
+.h-screen {
+  height: 100vh;
+}
+
 .h-\[90vh\] {
   height: 90vh;
 }
